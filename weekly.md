@@ -41,6 +41,10 @@ For stocks in that list, I want to know whether I should sell them, buy more, or
 
 For other stocks, I want to know whether it is a good moment to buy. Provide up to 5 recommendations.
 
+Do deep analysis.
+
+If I decide to buy or sell stocks, the list in this prompt should be updated.
+
 ---
 
 Output the report here and also send Slack (channel #reports).

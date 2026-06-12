@@ -4,6 +4,54 @@
     "github:NixOS/nixpkgs/nixpkgs-unstable": {
       "last_modified": "2026-04-16T08:46:55Z",
       "resolved": "github:NixOS/nixpkgs/b86751bc4085f48661017fa226dee99fab6c651b?lastModified=1776329215"
+    },
+    "vals@0.44.0": {
+      "last_modified": "2026-05-21T08:15:18Z",
+      "resolved": "github:NixOS/nixpkgs/4a29d733e8a7d5b824c3d8c958a946a9867b3eb2#vals",
+      "source": "devbox-search",
+      "version": "0.44.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/y3xy6qi3fkr3q561lpvipz4xq480gi81-vals-0.44.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/y3xy6qi3fkr3q561lpvipz4xq480gi81-vals-0.44.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/scc48x86d18z0k26122jgv6433ing8ng-vals-0.44.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/scc48x86d18z0k26122jgv6433ing8ng-vals-0.44.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/7c6426pl3h3gghbdhzxfsa311x57vvpy-vals-0.44.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/7c6426pl3h3gghbdhzxfsa311x57vvpy-vals-0.44.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/7lq3q0nw6yw7hafcv8jkn7rzqzqp088r-vals-0.44.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/7lq3q0nw6yw7hafcv8jkn7rzqzqp088r-vals-0.44.0"
+        }
+      }
     }
   }
 }

@@ -1,10 +1,14 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.16.0/.schema/devbox.schema.json",
-  "packages": [],
+  "$schema":  "https://raw.githubusercontent.com/jetify-com/devbox/0.16.0/.schema/devbox.schema.json",
+  "packages": ["vals@0.44.0"],
   "shell": {
-    "init_hook": [],
+    "init_hook": [
+      "export PATH=\"$HOME/.local/bin:$PATH\"",
+      "[ -n \"$USE_VALS\" ] && eval \"$(vals env -export -f .env.vals.yaml)\" || true",
+      "[ -f .env ] && source .env || true"
+    ],
     "scripts": {
-      "agent": ["claude --continue"],
+      "agent":     ["claude --continue"],
       "agent-new": ["claude"]
     }
   }
