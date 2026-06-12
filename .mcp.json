@@ -1,14 +1,10 @@
 {
   "mcpServers": {
-    "n8n": {
+    "telegram": {
       "command": "npx",
-      "args": ["-y", "n8n-mcp"],
+      "args": ["-y", "telegram-mcp-bot@latest"],
       "env": {
-        "MCP_MODE": "stdio",
-        "LOG_LEVEL": "error",
-        "DISABLE_CONSOLE_OUTPUT": "true",
-        "N8N_API_URL": "https://vfarcic.app.n8n.cloud",
-        "N8N_API_KEY": "${N8N_API_KEY}"
+        "TELEGRAM_BOT_TOKEN": "${TELEGRAM_BOT_TOKEN}"
       }
     }
   }
