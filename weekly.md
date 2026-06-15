@@ -54,6 +54,8 @@ Stocks I'm NOT interested in (exclude these — do not analyze or recommend them
 
 Do deep analysis.
 
+After completing all of the above, pick the single best buy right now — considering both my current list and your additional recommendations together — and explain in detail why it is the top pick over the alternatives (weigh valuation including trailing and forward P/E, growth, risk, EUR/USD exposure, and fit with my profile). Make a clear, decisive single choice rather than a shortlist.
+
 If I decide to buy or sell stocks, the list in this prompt should be updated.
 
 ---
