@@ -38,12 +38,11 @@ The stocks you should analyze should be a combination of stocks from my list, as
 My current list:
 - ASME (ASML)
 - SND.DE (Schneider Electric; on Xetra)
-- SHL.DE (Siemens Healthineers; on Xetra)
 - MSFT (Microsoft)
 - NVDA (NVIDIA)
-- MU (Micron Technology)
 - GOOGL (Alphabet Class A)
 - SAP (SAP)
+- AMZN (Amazon)
 
 For stocks in that list, I want to know whether I should sell them, buy more, or hold.
 
