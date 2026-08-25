@@ -41,8 +41,8 @@ My current list:
 - MSFT (Microsoft)
 - NVDA (NVIDIA)
 - GOOGL (Alphabet Class A)
-- SAP (SAP)
 - AMZN (Amazon)
+- AVGO (Broadcom)
 
 For stocks in that list, I want to know whether I should sell them, buy more, or hold.
 
