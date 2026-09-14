@@ -54,7 +54,18 @@ My current list:
 
 For stocks in that list, I want to know whether I should sell them, buy more, or hold.
 
-For other stocks, I want to know whether it is a good moment to buy. Provide up to 5 recommendations.
+For other stocks, I want to know whether it is a good moment to buy.
+
+Screen at least 15 candidates from across the tech and tech-adjacent universe, then
+do full deep analysis on the 8 most promising and give a clear buy / wait / avoid
+call on each. List the screened-but-cut names one line each with the reason they
+were cut, so I can see what was considered and not just what survived.
+
+Spread the candidates across different parts of the stack — semiconductors and
+equipment, software, data-centre power and cooling, networking, EU-listed names —
+rather than returning several versions of the same bet. State explicitly whether the
+recommendations would all fail in the same scenario, and if they would, say so
+rather than presenting them as diversified.
 
 Stocks I'm NOT interested in (exclude these — do not analyze or recommend them):
 - META (Meta Platforms)
