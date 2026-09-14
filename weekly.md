@@ -31,7 +31,15 @@ My profile (use these defaults — don't ask again):
 - Objective: capital growth
 - Base currency: EUR. I buy US stocks by converting euros to dollars, so my US holdings carry EUR/USD currency risk (a stronger euro lowers my euro-denominated returns on them); my EU holdings are priced in EUR and have no such conversion effect.
 
-For every stock analyzed, include its P/E ratio (both trailing and forward).
+For every stock analyzed, include its P/E ratio (both trailing and forward), and
+state whether each figure is GAAP or non-GAAP/adjusted. Data sites commonly mix the
+two (trailing GAAP, forward non-GAAP consensus), which makes them not directly
+comparable — say so when they are mixed.
+
+Where trailing and forward P/E diverge by more than ~30%, verify the cause against
+the actual income statement and report it: one-off gains or losses, acquisition
+amortisation, or genuine expected earnings growth. Do not assert a cause you have
+not checked.
 
 The stocks you should analyze should be a combination of stocks from my list, as well as other stocks on the market you recommend are good investments.
 
@@ -52,6 +60,9 @@ Stocks I'm NOT interested in (exclude these — do not analyze or recommend them
 - META (Meta Platforms)
 
 Do deep analysis.
+
+Distinguish what you verified from a primary source from what you inferred. If you
+have not checked something, say so rather than offering a plausible explanation.
 
 After completing all of the above, pick the single best buy right now — considering both my current list and your additional recommendations together — and explain in detail why it is the top pick over the alternatives (weigh valuation including trailing and forward P/E, growth, risk, EUR/USD exposure, and fit with my profile). Make a clear, decisive single choice rather than a shortlist.
 
