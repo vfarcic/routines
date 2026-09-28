@@ -51,6 +51,7 @@ My current list:
 - GOOGL (Alphabet Class A)
 - AMZN (Amazon)
 - AVGO (Broadcom)
+- SAP (SAP SE; on Xetra)
 
 For stocks in that list, I want to know whether I should sell them, buy more, or hold.
 
