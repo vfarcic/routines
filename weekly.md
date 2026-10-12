@@ -71,6 +71,9 @@ rather than presenting them as diversified.
 
 Stocks I'm NOT interested in (exclude these — do not analyze or recommend them):
 - META (Meta Platforms)
+- TSM (TSMC) — and more broadly any company whose main production is in Taiwan
+  (invasion/blockade tail risk is too binary for my profile; my holdings already carry
+  it indirectly through NVDA, AVGO, and ASML)
 
 Do deep analysis.
 
@@ -78,6 +81,20 @@ Distinguish what you verified from a primary source from what you inferred. If y
 have not checked something, say so rather than offering a plausible explanation.
 
 After completing all of the above, pick the single best buy right now — considering both my current list and your additional recommendations together — and explain in detail why it is the top pick over the alternatives (weigh valuation including trailing and forward P/E, growth, risk, EUR/USD exposure, and fit with my profile). Make a clear, decisive single choice rather than a shortlist.
+
+Before naming the top pick, run a dedicated verification pass on the top pick and the
+runner-up yourself (do not just relay a research subagent's summary). For each, check:
+- Multi-year price trend (at least 3–5 years, not only distance from the 52-week high),
+  and the cause of each major leg down. A large drawdown is a question to investigate,
+  not an entry signal — say whether the decline came from a falling multiple while
+  earnings grew, or from deteriorating fundamentals.
+- Whether any "guidance raised" is organic or only from acquisitions or currency.
+- Multi-year revenue and EPS growth trend (accelerating or decelerating), margin and
+  capex direction, free cash flow, and beta/volatility versus my balanced profile.
+- Concentration and tail risks: what single event (geopolitical, customer, regulatory)
+  would impair the investment, and how much of that risk my holdings already carry.
+
+If the pick fails this pass, demote it and verify the next candidate the same way.
 
 If I decide to buy or sell stocks, the list in this prompt should be updated.
 
