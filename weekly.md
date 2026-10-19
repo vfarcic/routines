@@ -53,6 +53,7 @@ My current list:
 - AVGO (Broadcom)
 - SAP (SAP SE; on Xetra)
 - ENR.DE (Siemens Energy; on Xetra)
+- AEU (Prysmian; on Xetra)
 
 For stocks in that list, I want to know whether I should sell them, buy more, or hold.
 
@@ -81,6 +82,12 @@ Distinguish what you verified from a primary source from what you inferred. If y
 have not checked something, say so rather than offering a plausible explanation.
 
 After completing all of the above, pick the single best buy right now — considering both my current list and your additional recommendations together — and explain in detail why it is the top pick over the alternatives (weigh valuation including trailing and forward P/E, growth, risk, EUR/USD exposure, and fit with my profile). Make a clear, decisive single choice rather than a shortlist.
+
+Every call (buy / sell / hold / wait / avoid, and the top pick) must be actionable on the
+day of the report. Do not defer a decision to a future event ("buy after Q3 results",
+"upgrade if earnings confirm"). Upcoming earnings are a risk to weigh in today's call,
+not a reason to postpone it; next week's report re-evaluates with the new information.
+If a stock is not a buy today, say so plainly.
 
 Before naming the top pick, run a dedicated verification pass on the top pick and the
 runner-up yourself (do not just relay a research subagent's summary). For each, check:
