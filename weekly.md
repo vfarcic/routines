@@ -54,6 +54,7 @@ My current list:
 - SAP (SAP SE; on Xetra)
 - ENR.DE (Siemens Energy; on Xetra)
 - AEU (Prysmian; on Xetra)
+- ANT (Anthropic; on Nasdaq)
 
 For stocks in that list, I want to know whether I should sell them, buy more, or hold.
 
